@@ -1,5 +1,5 @@
 //
-//  MJBViewController.h
+//  MJBTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by MJB on 31/08/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MJBViewController : UIViewController
+@interface MJBTableViewController : UITableViewController
 
 @end
